@@ -4,7 +4,7 @@
 
 ![Course Banner](https://github.com/financial-data-science/CFDS-Notebooks/blob/main/banner.png)
 
-A set of introductory lab notebooks that we prepared for the AZEK seminar on **"Financial Data Science"**. The content of the notebooks is based on Python, IPython Notebook, and PyTorch.
+A set of introductory lab notebooks that we prepared for the DVFA and AZEK seminar on **"Financial Data Science"**. The content of the notebooks is based on Python, IPython Notebook, and PyTorch.
 
 The development of the notebooks is in constant progress so expect minor errors and some rough edges ;)
 
