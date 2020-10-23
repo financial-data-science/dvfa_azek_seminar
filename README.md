@@ -12,11 +12,15 @@ The development of the notebooks is in constant progress so expect minor errors 
 
 **Lab 01:** "Exemplary Financial Data Science Process" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/azek_seminar/blob/master/lab_01/dvfa_colab_01.ipynb))
 
-**Lab 02:** "Long Short-Term Memory Neural Networks" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/azek_seminar/blob/master/lab_02/azek_colab_02.ipynb))
+**Lab 02:** "Long Short-Term Memory Neural Networks" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/azek_seminar/blob/master/lab_02/dvfa_colab_02.ipynb))
+
+<!--
 
 ## Running the Lab Notebooks in Microsoft's Azure Cloud:
 
 Cloning the repository to Azure Notebooks: [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/financial-data-science/azek_seminar)
+
+-->
 
 ## Running the Lab Notebooks in Binder:
 
@@ -24,4 +28,4 @@ Cloning the repository to Azure Notebooks: [![Azure Notebooks](https://notebooks
 
 **Lab 01:** "Exemplary Financial Data Science Process" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/azek_seminar/master?filepath=lab_01%2Fdvfa_lab_01.ipynb))
 
-**Lab 02:** "Long Short-Term Memory Neural Networks" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/azek_seminar/master?filepath=lab_02%2Fazek_lab_02.ipynb))
+**Lab 02:** "Long Short-Term Memory Neural Networks" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/azek_seminar/master?filepath=lab_02%2dvfa_lab_02.ipynb))
