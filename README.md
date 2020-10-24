@@ -10,7 +10,11 @@ The development of the notebooks is in constant progress so expect minor errors 
 
 ## Running the Lab Notebooks in Google's Colab:
 
+<!--
+
 **Lab 00:** "Testing the Lab Environment" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/azek_seminar/blob/master/lab_00/azek_colab_00.ipynb))
+
+-->
 
 **Lab 01:** "Exemplary Financial Data Science Process" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/azek_seminar/blob/master/lab_01/dvfa_colab_01.ipynb))
 
@@ -26,7 +30,11 @@ Cloning the repository to Azure Notebooks: [![Azure Notebooks](https://notebooks
 
 ## Running the Lab Notebooks in Binder:
 
+<!--
+
 **Lab 00:** "Testing the Lab Environment" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/azek_seminar/master?filepath=lab_00%2Fazek_lab_00.ipynb))
+
+-->
 
 **Lab 01:** "Exemplary Financial Data Science Process" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/azek_seminar/master?filepath=lab_01%2Fdvfa_lab_01.ipynb))
 
